@@ -140,7 +140,7 @@ Scanner sc=new Scanner(System.in);
 			
 			else {
 				System.out.println();
-				System.out.println("Vous avez trouvé " + Integer.toString(couleursBienPlacees) + " couleur(s) exacte(s) et bien placé(s).");
+				System.out.println("Vous avez trouvé " + Integer.toString(couleursBienPlacees) + " couleur(s) exacte(s) et bien placée(s).");
                 System.out.println("Vous avez trouvé " + Integer.toString(couleursMalPlacees) + " couleur(s) exacte(s) mais mal placée(s).");
                 }
 			
